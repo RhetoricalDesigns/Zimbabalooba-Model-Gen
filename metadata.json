@@ -1,0 +1,7 @@
+{
+  "name": "Zimbabalooba Fashion Engine",
+  "description": "A high-end fashion AI tool that combines fit references and pattern textures to generate stunning lifestyle imagery.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
